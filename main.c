@@ -4,7 +4,7 @@
 #include <string.h>
 #include <stdio.h>
 
-void main(void) {
+int main(void) {
     struct vector_3d v1 = {
         .x = 2,
         .y = 3,
